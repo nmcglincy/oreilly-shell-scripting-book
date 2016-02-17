@@ -1,2 +1,3 @@
 #! /bin/sh -
+# wtf does this do
 who | wc -l
