@@ -1,0 +1,1 @@
+s/Tolstoy/Camus/g
