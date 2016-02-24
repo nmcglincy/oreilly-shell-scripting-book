@@ -1,0 +1,7 @@
+total 32
+drwxr-xr-x  4 nmcglincy  staff  136 Feb 18 10:09 bin/
+-rwxr-xr-x@ 1 nmcglincy  staff   55 Feb 18 10:14 trace1.sh
+-rw-r--r--  1 nmcglincy  staff   18 Feb 24 10:33 existential.sed
+-rw-r--r--  1 nmcglincy  staff   78 Feb 24 10:33 example.txt
+-rwxr-xr-x@ 1 nmcglincy  staff   94 Feb 24 10:44 sed-head.sh
+-rw-r--r--  1 nmcglincy  staff    0 Feb 24 10:46 file.stuff
