@@ -1,0 +1,8 @@
+Franklin, Ben                          	OSD212	555-0022
+Gale, Dorothy                          	KNS321	555-0044
+Gale, Toto                             	KNS322	555-0045
+Hancock, John                          	SIG435	555-0099
+Jefferson, Thomas                      	BMD19	555-0095
+Jones, Adrian W.                       	OSD211	555-0123
+Ross, Betsy                            	BMD17	555-0033
+Washington, George                     	BST999	555-0001
