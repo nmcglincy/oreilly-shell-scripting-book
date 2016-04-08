@@ -17,11 +17,19 @@ cat << EOFILE
 		<TABLE>
 EOFILE
 
-sed -e 's=&=\&amp;=g' \
-		-e 's=<=\&lt;=g' \
-		-e 's=>=\&gt;=g' \
-		-e 's=\t=</TD><TD>=g' \
-		-e 's=^.*$=			<TR><TD>&</TD></TR>='
+# sed -e 's=&=\&amp;=g' \
+# 		-e 's=<=\&lt;=g' \
+# 		-e 's=>=\&gt;=g' \
+# 		-e 's=\t=</TD><TD>=g' \
+# 		-e 's=^.*$=			<TR><TD>&</TD></TR>='
+
+awk 'BEGIN{
+	FS="\t"
+	OFS="</TD><TD>"
+}
+{
+	print "<TR><TD>" $1, $2, $3 "</TD></TR>"
+}'
 
 cat << EOFILE
 		</TABLE>
