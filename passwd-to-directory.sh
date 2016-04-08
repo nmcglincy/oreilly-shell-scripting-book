@@ -41,3 +41,4 @@ join -t: $PERSON $OFFICE \
 	| cut -d: -f2- \
 	| sort -t: -k1,1 -k2,2 -k3,3 \
 	| awk -F: '{ printf("%-39s\t%s\t%s\n", $1, $2, $3)}'
+
