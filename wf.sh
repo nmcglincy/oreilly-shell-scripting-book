@@ -13,3 +13,4 @@ tr -cs A-Za-z\' '\n' \
 	| uniq -c \
 	| sort -k1,1nr -k2 \
 	| sed ${1:-25}q
+# I don't really understand the last command, I'll try to come back to it when I get to variables.
