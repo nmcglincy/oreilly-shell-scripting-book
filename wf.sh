@@ -14,3 +14,4 @@ tr -cs A-Za-z\' '\n' \
 	| sort -k1,1nr -k2 \
 	| sed ${1:-25}q
 # I don't really understand the last command, I'll try to come back to it when I get to variables.
+# Now I get is ${1} is the first command line argument "n", it's not some sort of numerical range.
