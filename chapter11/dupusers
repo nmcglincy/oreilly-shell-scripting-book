@@ -1,0 +1,4 @@
+ben:x:201:10:Ben Franklin:/home/ben:/bin/bash
+ben:x:301:10:Ben Franklin:/home/ben:/bin/bash
+jhancock:x:200:10:John Hancock:/home/jhancock:/bin/bash
+jhancock:x:300:10:John Hancock:/home/jhancock:/bin/bash

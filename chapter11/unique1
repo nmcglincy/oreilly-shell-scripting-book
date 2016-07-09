@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+tolstoy:x:2076:10:Leo Tolstoy:/home/tolstoy:/bin/bash
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+bin:x:1:1:bin:/bin:/sbin/nologin
+camus:x:112:10:Albert Camus:/home/camus:/bin/bash
