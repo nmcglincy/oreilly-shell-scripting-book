@@ -1,0 +1,6 @@
+betsy:x:106:10:Betsy Ross:/home/betsy:/bin/bash
+george:x:107:10:George Washington:/home/george:/bin/bash
+abe:x:108:10:Honest Abe Lincoln:/home/abe:/bin/bash
+tj:x:109:10:Thomas Jefferson:/home/tj:/bin/bash
+dorothy:x:111:10:Dorothy Gale:/home/dorothy:/bin/bash
+toto:x:113:10:Toto Gale:/home/toto:/bin/bash

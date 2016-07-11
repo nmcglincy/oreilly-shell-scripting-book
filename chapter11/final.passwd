@@ -1,0 +1,14 @@
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+betsy:x:106:10:Betsy Ross:/home/betsy:/bin/bash
+george:x:107:10:George Washington:/home/george:/bin/bash
+abe:x:108:10:Honest Abe Lincoln:/home/abe:/bin/bash
+tj:x:109:10:Thomas Jefferson:/home/tj:/bin/bash
+dorothy:x:111:10:Dorothy Gale:/home/dorothy:/bin/bash
+camus:x:112:10:Albert Camus:/home/camus:/bin/bash
+toto:x:113:10:Toto Gale:/home/toto:/bin/bash
+jhancock:x:300:10:John Hancock:/home/jhancock:/bin/bash
+ben:x:301:10:Ben Franklin:/home/ben:/bin/bash
+tolstoy:x:2076:10:Leo Tolstoy:/home/tolstoy:/bin/bash
